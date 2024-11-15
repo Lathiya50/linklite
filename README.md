@@ -2,8 +2,7 @@
 
 # 🔗 LinkLite - The Link Management Platform for Businesses(Landing Page)
 
-<!-- <img src="https://github.com/user-attachments/assets/deab03fd-4234-44c3-a6ad-484c4a1a02a1" alt="LinkLite Thubmnail"> -->
-<img src="https://github.com/user-attachments/assets/ee867e8e-7871-4289-bd56-3eef40adb9b2" alt="LinkLite Thumbnail" style="border-radius: 50px;" width="1280">
+<img src="https://github.com/user-attachments/assets/a95d14db-a32d-44dd-a4fe-0ef4899d46fc" alt="LinkLite Thumbnail" style="border-radius: 50px;" width="1280">
 
 ## 🌟 Introduction
 
